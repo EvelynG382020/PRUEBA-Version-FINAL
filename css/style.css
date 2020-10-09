@@ -15,11 +15,11 @@ padding: 0;
 
 
 header {
-    background-image: url('../img/bg_hero.png');
+    background-image: url('../img/fotomia.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    padding-top: 10rem;
+    padding-top: 30rem;
     width: 100%;
     height: auto;
   }
