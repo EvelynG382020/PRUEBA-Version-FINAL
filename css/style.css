@@ -1,0 +1,49 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+body * {
+margin: 0;
+border: 0;
+padding: 0;
+}
+
+.sansita-navbar {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: larger;
+}
+
+
+header {
+    background-image: url('../Prueba1desafioBlog/img/bg_hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 10rem;
+    width: 100%;
+    height: auto;
+  }
+
+.border-white {
+    border-width: 10%;
+    text-align: center;
+    margin-right: 40%;
+    margin-left: 40%;
+}
+.icon {
+    text-align: center;
+    color: antiquewhite;
+    width: 10px;
+}
+.border-dark {
+    border-width: 10%;
+    text-align: center;
+    margin-right: 40%;
+    margin-left: 40%;
+}
+
+@media (min-widht-576px) {
+    .icon {
+        color: dimgray;
+    }
+}
